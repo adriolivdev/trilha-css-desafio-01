@@ -6,3 +6,5 @@ Nela eu construir a primeira Landing Page do bootcamp.
 Esse é o link do protótipo no figma:
 
 [Link do Figma](https://www.figma.com/file/3PiokoJj9IhGDnNiWAJbz7/DIO---Desafio-01?node-id=2%3A6) contendo o protótipo do desafio.
+
+link do deploy: https://adriolivdev.github.io/trilha-css-desafio-01/
